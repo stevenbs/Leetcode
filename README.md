@@ -20,13 +20,13 @@ The questions I have reviewed
 | 206 | [Reverse Linked List](https://github.com/zhan2661/LeetCode/blob/master/Java/%20reverseList.java)  |  |
 | 350 | [Intersection of Two Arrays II](https://github.com/zhan2661/LeetCode/blob/master/Java/intersect.java) |  |
 | 268 | [Missing Number](https://github.com/zhan2661/LeetCode/blob/master/Java/missingNumber.java)  |  |
-|  108  | [Convert Sorted Array to Binary Search Tree  ]     |  | 
-|  21   | [Merge Two Sorted Lists]     |  | 
-|  121 | [Best Time to Buy and Sell Stock]     |  | 
-|  	202 | [Happy Number ]     |  | 
-|  70 | [Climbing Stairs ]     |  | 
-|  326  | [Power of Three ]     |  | 
-|  	53 | [Maximum Subarray ]     |  | 
-|  101   | [Symmetric Tree]     |  | 
-|  21  | [Merge Two Sorted Lists]     |  | 
-|  118  | [Pascal's Triangle]     |  | 
+| 108  | [Convert Sorted Array to Binary Search Tree  ]     |  | 
+| 21   | [Merge Two Sorted Lists]     |  | 
+| 121 | [Best Time to Buy and Sell Stock]     |  | 
+| 202 | [Happy Number ]     |  | 
+| 70 | [Climbing Stairs ]     |  | 
+| 326  | [Power of Three ]     |  | 
+| 53 | [Maximum Subarray ]     |  | 
+| 101   | [Symmetric Tree]     |  | 
+| 21  | [Merge Two Sorted Lists]     |  | 
+| 118  | [Pascal's Triangle]     |  | 
