@@ -22,7 +22,7 @@ The questions I have reviewed
 | 268 | [Missing Number](https://github.com/zhan2661/LeetCode/blob/master/Java/missingNumber.java)  |  |
 | 108 | [Convert Sorted Array to Binary Search Tree  ](https://github.com/zhan2661/LeetCode/blob/master/Java/sortedArrayToBST.java)     |  | 
 | 121 | [Best Time to Buy and Sell Stock](https://github.com/zhan2661/LeetCode/blob/master/Java/maxProfit.java)     |  | 
-| 202 | [Happy Number ]     |  | 
+| 202 | [Happy Number ](https://github.com/zhan2661/LeetCode/blob/master/Java/isHappy.java)     |  | 
 |  70 | [Climbing Stairs ]     |  | 
 | 326 | [Power of Three ]     |  | 
 | 53  | [Maximum Subarray ]     |  | 
