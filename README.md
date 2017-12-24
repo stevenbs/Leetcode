@@ -12,7 +12,7 @@ The questions I have reviewed
 | 371 | [Sum of Two Integers](https://github.com/zhan2661/LeetCode/blob/master/Java/getSum.java)    |  |
 | 283 | 	[Move Zeroes](https://github.com/zhan2661/LeetCode/blob/master/Java/moveZeroes.java)   |  |
 | 171 | [Excel Sheet Column Number](https://github.com/zhan2661/LeetCode/blob/master/Java/titleToNumber.java)    | |
-| 169 | [Majority Element]    | |
+| 169 | [Majority Element](https://github.com/zhan2661/LeetCode/blob/master/Java/majorityElement.java)    | |
 | 387 | [First Unique Character in a String]   |  |
 | 237 | [Delete Node in a Linked List]  |  |
 | 242 | [Valid Anagram]    |  |
