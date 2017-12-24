@@ -16,7 +16,7 @@ The questions I have reviewed
 | 387 | [First Unique Character in a String](https://github.com/zhan2661/LeetCode/blob/master/Java/firstUniqChar.java)   |  |
 | 237 | [Delete Node in a Linked List](https://github.com/zhan2661/LeetCode/blob/master/Java/deleteNode.java)  |  |
 | 242 | [Valid Anagram](https://github.com/zhan2661/LeetCode/blob/master/Java/isAnagram.java)    |  |
-| 217 | [Contains Duplicate]  |  |
+| 217 | [Contains Duplicate](https://github.com/zhan2661/LeetCode/blob/master/Java/containsDuplicate.java)  |  |
 | 206 | [Reverse Linked List]  |  |
 | 350 | [Intersection of Two Arrays II] |  |
 | 268 | [Missing Number]   |  |
