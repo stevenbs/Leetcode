@@ -24,7 +24,7 @@ The questions I have reviewed
 | 121 | [Best Time to Buy and Sell Stock](https://github.com/zhan2661/LeetCode/blob/master/Java/maxProfit.java)     |  | 
 | 202 | [Happy Number ](https://github.com/zhan2661/LeetCode/blob/master/Java/isHappy.java)     |  | 
 |  70 | [Climbing Stairs ](https://github.com/zhan2661/LeetCode/blob/master/Java/climbStairs.java)     |  | 
-| 326 | [Power of Three ]     |  | 
+| 326 | [Power of Three ](https://github.com/zhan2661/LeetCode/blob/master/Java/isPowerOfThree.java)     |  | 
 | 53  | [Maximum Subarray ]     |  | 
 | 101 | [Symmetric Tree]     |  | 
 |  21 | [Merge Two Sorted Lists]     |  | 
