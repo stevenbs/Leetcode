@@ -6,4 +6,4 @@ The questions I have reviewed
 | # | Title | Solution | Difficulty |
 | --- | --- | ---| --- |
 | 344 | Reverse String  |   [Java](https://github.com/zhan2661/LeetCode/blob/master/Java/reverseString.java)   |     |
-| git diff | Show file differences that haven't been staged |   |    |
+|  | Show file differences that haven't been staged |   |    |
