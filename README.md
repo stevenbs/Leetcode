@@ -20,4 +20,13 @@ The questions I have reviewed
 | 206 | [Reverse Linked List](https://github.com/zhan2661/LeetCode/blob/master/Java/%20reverseList.java)  |  |
 | 350 | [Intersection of Two Arrays II](https://github.com/zhan2661/LeetCode/blob/master/Java/intersect.java) |  |
 | 268 | [Missing Number](https://github.com/zhan2661/LeetCode/blob/master/Java/missingNumber.java)  |  |
-|     |   |  | 
+|  101   | [Symmetric Tree]     |  | 
+|  21   | [Merge Two Sorted Lists]     |  | 
+|  118   | [Pascal's Triangle]     |  | 
+|  101   | [Symmetric Tree]     |  | 
+|  101   | [Symmetric Tree]     |  | 
+|  101   | [Symmetric Tree]     |  | 
+|  101   | [Symmetric Tree]     |  | 
+|  101   | [Symmetric Tree]     |  | 
+|  101   | [Symmetric Tree]     |  | 
+|  101   | [Symmetric Tree]     |  | 
