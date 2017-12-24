@@ -28,4 +28,4 @@ The questions I have reviewed
 | 53  | [Maximum Subarray ](https://github.com/zhan2661/LeetCode/blob/master/Java/maxSubArray.java)     |  | 
 | 101 | [Symmetric Tree](https://github.com/zhan2661/LeetCode/blob/master/Java/isSymmetric.java)     |  | 
 |  21 | [Merge Two Sorted Lists](https://github.com/zhan2661/LeetCode/blob/master/Java/%20mergeTwoLists.java)     |  | 
-| 118 | [Pascal's Triangle]     |  | 
+| 118 | [Pascal's Triangle](https://github.com/zhan2661/LeetCode/blob/master/Java/%20generate.java)    |  | 
