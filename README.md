@@ -9,7 +9,7 @@ The questions I have reviewed
 | 422 | [Fizz Buzz](https://github.com/zhan2661/LeetCode/blob/master/Java/fizzBuzz.java) |     |
 | 136 | [Single Number](https://github.com/zhan2661/LeetCode/blob/master/Java/singleNumber.java) |  |
 | 104 | [Maximum Depth of Binary Tree](https://github.com/zhan2661/LeetCode/blob/master/Java/%20maxDepth.java) |  |
-| 371 | [Sum of Two Integers]    |  |
+| 371 | [Sum of Two Integers](https://github.com/zhan2661/LeetCode/blob/master/Java/getSum.java)    |  |
 | 283 | 	[Move Zeroes]    |  |
 | 171 | [Excel Sheet Column Number]    | |
 | 169 | [Majority Element]    | |
