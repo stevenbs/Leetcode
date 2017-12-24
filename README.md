@@ -6,7 +6,7 @@ The questions I have reviewed
 | # | Title |  Difficulty |
 | --- | --- | --- |
 | 344 | [Reverse String ](https://github.com/zhan2661/LeetCode/blob/master/Java/reverseString.java) |      |
-| 422 | Fizz Buzz |     |
+| 422 | [Fizz Buzz](https://github.com/zhan2661/LeetCode/blob/master/Java/fizzBuzz.java) |     |
 | 136 | Single Number |  |
 | 136 | Maximum Depth of Binary Tree |  |
 | 136 | Sum of Two Integers    |  |
