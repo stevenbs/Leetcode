@@ -18,5 +18,5 @@ The questions I have reviewed
 | 242 | [Valid Anagram](https://github.com/zhan2661/LeetCode/blob/master/Java/isAnagram.java)    |  |
 | 217 | [Contains Duplicate](https://github.com/zhan2661/LeetCode/blob/master/Java/containsDuplicate.java)  |  |
 | 206 | [Reverse Linked List](https://github.com/zhan2661/LeetCode/blob/master/Java/%20reverseList.java)  |  |
-| 350 | [Intersection of Two Arrays II] |  |
+| 350 | [Intersection of Two Arrays II](https://github.com/zhan2661/LeetCode/blob/master/Java/intersect.java) |  |
 | 268 | [Missing Number]   |  |
