@@ -8,7 +8,7 @@ The questions I have reviewed
 | 344 | [Reverse String ](https://github.com/zhan2661/LeetCode/blob/master/Java/reverseString.java) |      |
 | 422 | [Fizz Buzz](https://github.com/zhan2661/LeetCode/blob/master/Java/fizzBuzz.java) |     |
 | 136 | [Single Number](https://github.com/zhan2661/LeetCode/blob/master/Java/singleNumber.java) |  |
-| 104 | [Maximum Depth of Binary Tree] |  |
+| 104 | [Maximum Depth of Binary Tree](https://github.com/zhan2661/LeetCode/blob/master/Java/%20maxDepth.java) |  |
 | 371 | [Sum of Two Integers]    |  |
 | 283 | 	[Move Zeroes]    |  |
 | 171 | [Excel Sheet Column Number]    | |
