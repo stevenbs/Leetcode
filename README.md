@@ -11,7 +11,7 @@ The questions I have reviewed
 | 104 | [Maximum Depth of Binary Tree](https://github.com/zhan2661/LeetCode/blob/master/Java/%20maxDepth.java) |  |
 | 371 | [Sum of Two Integers](https://github.com/zhan2661/LeetCode/blob/master/Java/getSum.java)    |  |
 | 283 | 	[Move Zeroes](https://github.com/zhan2661/LeetCode/blob/master/Java/moveZeroes.java)   |  |
-| 171 | [Excel Sheet Column Number]    | |
+| 171 | [Excel Sheet Column Number](https://github.com/zhan2661/LeetCode/blob/master/Java/titleToNumber.java)    | |
 | 169 | [Majority Element]    | |
 | 387 | [First Unique Character in a String]   |  |
 | 237 | [Delete Node in a Linked List]  |  |
