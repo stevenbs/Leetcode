@@ -23,9 +23,9 @@ The questions I have reviewed
 | 108 | [Convert Sorted Array to Binary Search Tree  ]     |  | 
 | 121 | [Best Time to Buy and Sell Stock]     |  | 
 | 202 | [Happy Number ]     |  | 
-| 70  | [Climbing Stairs ]     |  | 
+|  70 | [Climbing Stairs ]     |  | 
 | 326 | [Power of Three ]     |  | 
 | 53  | [Maximum Subarray ]     |  | 
 | 101 | [Symmetric Tree]     |  | 
-| 21  | [Merge Two Sorted Lists]     |  | 
+|  21 | [Merge Two Sorted Lists]     |  | 
 | 118 | [Pascal's Triangle]     |  | 
