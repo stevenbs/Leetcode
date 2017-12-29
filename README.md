@@ -23,9 +23,24 @@ The questions I have reviewed
 | 108 | [Convert Sorted Array to Binary Search Tree  ](https://github.com/zhan2661/LeetCode/blob/master/Java/sortedArrayToBST.java)     |  | 
 | 121 | [Best Time to Buy and Sell Stock](https://github.com/zhan2661/LeetCode/blob/master/Java/maxProfit.java)     |  | 
 | 202 | [Happy Number ](https://github.com/zhan2661/LeetCode/blob/master/Java/isHappy.java)     |  | 
-|  70 | [Climbing Stairs ](https://github.com/zhan2661/LeetCode/blob/master/Java/climbStairs.java)     |  | 
+| 070 | [Climbing Stairs ](https://github.com/zhan2661/LeetCode/blob/master/Java/climbStairs.java)     |  | 
 | 326 | [Power of Three ](https://github.com/zhan2661/LeetCode/blob/master/Java/isPowerOfThree.java)     |  | 
-| 53  | [Maximum Subarray ](https://github.com/zhan2661/LeetCode/blob/master/Java/maxSubArray.java)     |  | 
+| 053 | [Maximum Subarray ](https://github.com/zhan2661/LeetCode/blob/master/Java/maxSubArray.java)     |  | 
 | 101 | [Symmetric Tree](https://github.com/zhan2661/LeetCode/blob/master/Java/isSymmetric.java)     |  | 
-|  21 | [Merge Two Sorted Lists](https://github.com/zhan2661/LeetCode/blob/master/Java/%20mergeTwoLists.java)     |  | 
+| 021 | [Merge Two Sorted Lists](https://github.com/zhan2661/LeetCode/blob/master/Java/%20mergeTwoLists.java)     |  | 
 | 118 | [Pascal's Triangle](https://github.com/zhan2661/LeetCode/blob/master/Java/%20generate.java)   |  | 
+| 001 | [Two Sum]()|  |
+| 026 | [Remove Duplicates from Sorted Array]()|  |
+| 141 | [Linked List Cycle]()|  |
+| 234 | [Palindrome Linked List]()|  |
+| 014 | [Longest Common Prefix]()|  |
+| 160 | [Intersection of Two Linked Lists]()|  |
+| 155 | [Min Stack]()|  |
+| 028 | [Implement strStr()]()|  |
+| 125 | [Valid Palindrome]()|  |
+| 204 | [Count Primes]()|  |
+| 189 | [Rotate Array]()|  |
+| 238 | [Product of Array Except Self]()|  |
+| 347 | [Top K Frequent Elements]()|  |
+| 094 | [Binary Tree Inorder Traversal]()|  |
+| 454 | [4Sum II]()|   |
