@@ -34,7 +34,7 @@ The questions I have reviewed
 | 141 | [Linked List Cycle](https://github.com/zhan2661/LeetCode/blob/master/Java/hasCycle.java)|  |
 | 234 | [Palindrome Linked List](https://github.com/zhan2661/LeetCode/blob/master/Java/isPalindrome.java)|  |
 | 014 | [Longest Common Prefix](https://github.com/zhan2661/LeetCode/blob/master/Java/longestCommonPrefix.java)|  |
-| 160 | [Intersection of Two Linked Lists]()|  |
+| 160 | [Intersection of Two Linked Lists](https://github.com/zhan2661/LeetCode/blob/master/Java/getIntersectionNode.java)|  |
 | 155 | [Min Stack]()|  |
 | 028 | [Implement strStr()]()|  |
 | 125 | [Valid Palindrome]()|  |
