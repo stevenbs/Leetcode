@@ -1,15 +1,19 @@
 import java.util.*;
 class reverseString {
     public String reverseString(String s) {
-        String R="";
-        List<String> result = new ArrayList<String>();
-        for(int i=0;i<s.length();i++){
-          result.add(Character.toString(s.charAt(i)));
+      char[] word = s.toCharArray();
+        int i = 0;
+        int j = word.length - 1;
+        
+        while(i<j){
+            char c = word[i];
+            word[i] = word[j];
+            word[j] = c;
+            i++;
+            j--;
         }
-        for(int n= result.size()-1;n>=0;n--){
-          R+=result.get(n);
-        }
-        return R;
-      }
-
+        
+        return new String(word);
+    }
+    
 }
