@@ -35,7 +35,7 @@ The questions I have reviewed
 | 234 | [Palindrome Linked List](https://github.com/zhan2661/LeetCode/blob/master/Java/isPalindrome.java)|  |
 | 014 | [Longest Common Prefix](https://github.com/zhan2661/LeetCode/blob/master/Java/longestCommonPrefix.java)|  |
 | 160 | [Intersection of Two Linked Lists](https://github.com/zhan2661/LeetCode/blob/master/Java/getIntersectionNode.java)|  |
-| 155 | [Min Stack]()|  |
+| 155 | [Min Stack](https://github.com/zhan2661/LeetCode/blob/master/Java/%20MinStack.java)|  |
 | 028 | [Implement strStr()]()|  |
 | 125 | [Valid Palindrome]()|  |
 | 204 | [Count Primes]()|  |
