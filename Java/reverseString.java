@@ -1,5 +1,6 @@
 import java.util.*;
 class reverseString {
+    1):
     public String reverseString(String s) {
       char[] word = s.toCharArray();// string to charArray();
         int i = 0;//start index;
@@ -15,5 +16,17 @@ class reverseString {
         
         return new String(word);
     }
+    2):
+    public String reverseString(String s) {
+        String R="";
+        List<String> result = new ArrayList<String>();
+        for(int i=0;i<s.length();i++){
+          result.add(Character.toString(s.charAt(i)));
+        }
+        for(int n= result.size()-1;n>=0;n--){
+          R+=result.get(n);
+        }
+        return R;
+      }
     
 }
