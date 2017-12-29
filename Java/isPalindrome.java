@@ -1,17 +1,21 @@
 class Solution {
-    public boolean isPalindrome(ListNode head) {
-           List<ListNode> stack = new ArrayList<>();
-        
-        while (head != null){
-            stack.add(head);
-            head = head.next;
+    public boolean isPalindrome(String s) {
+        boolean check = true;
+        if(s.equals("")){
+            return true;
         }
+        else{
+                String str = s.replaceAll("[^a-zA-Z0-9]","").toLowerCase();
+                char[] c = str.toCharArray();
+                //if(c.length ==1)return true;
+                for(int i=0;i<c.length/2;i++){
+                    if(c[i]!=c[c.length-1-i]){
+                        return false;
+                    }
+                }
+            return check;
 
-        for (int i = 0; i <stack.size() ; i++) {
-            if (stack.get(i).val != stack.get(stack.size()-i-1).val){
-                return false;
             }
         }
-        return true;
-    }
+    
 }
