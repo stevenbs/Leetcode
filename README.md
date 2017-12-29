@@ -31,7 +31,7 @@ The questions I have reviewed
 | 118 | [Pascal's Triangle](https://github.com/zhan2661/LeetCode/blob/master/Java/%20generate.java)   |  | 
 | 001 | [Two Sum](https://github.com/zhan2661/LeetCode/blob/master/Java/twoSum.java)|  |
 | 026 | [Remove Duplicates from Sorted Array](https://github.com/zhan2661/LeetCode/blob/master/Java/removeDuplicates.java)|  |
-| 141 | [Linked List Cycle]()|  |
+| 141 | [Linked List Cycle](https://github.com/zhan2661/LeetCode/blob/master/Java/hasCycle.java)|  |
 | 234 | [Palindrome Linked List]()|  |
 | 014 | [Longest Common Prefix]()|  |
 | 160 | [Intersection of Two Linked Lists]()|  |
