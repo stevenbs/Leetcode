@@ -38,7 +38,7 @@ The questions I have reviewed
 | 155 | [Min Stack](https://github.com/zhan2661/LeetCode/blob/master/Java/%20MinStack.java)|  |
 | 028 | [Implement strStr()](https://github.com/zhan2661/LeetCode/blob/master/Java/strStr.java)|  |
 | 125 | [Valid Palindrome](https://github.com/zhan2661/LeetCode/blob/master/Java/isPalindrome.java)|  |
-| 204 | [Count Primes]()|  |
+| 204 | [Count Primes](https://github.com/zhan2661/LeetCode/blob/master/Java/countPrimes.java)|  |
 | 189 | [Rotate Array]()|  |
 | 238 | [Product of Array Except Self]()|  |
 | 347 | [Top K Frequent Elements]()|  |
