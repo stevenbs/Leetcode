@@ -45,7 +45,7 @@ The questions I have reviewed
 | 094 | [Binary Tree Inorder Traversal](https://github.com/zhan2661/LeetCode/blob/master/Java/inorderTraversal.java)|  |
 | 454 | [4Sum II](https://github.com/zhan2661/LeetCode/blob/master/Java/fourSumCount.java)|   |
 | 378 | [	Kth Smallest Element in a Sorted Matrix](https://github.com/zhan2661/LeetCode/blob/master/Java/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.java) |  |
-| 230 | [Kth Smallest Element in a BST]() |  |
+| 230 | [Kth Smallest Element in a BST](https://github.com/zhan2661/LeetCode/blob/master/Java/Kth%20Smallest%20Element%20in%20a%20BST.java) |  |
 | 328 | [Odd Even Linked List]() |  |
 | 287 | [Find the Duplicate Number ]() |  |
 | 078 | [Subsets]() |  |
