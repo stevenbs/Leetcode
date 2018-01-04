@@ -44,7 +44,7 @@ The questions I have reviewed
 | 347 | [Top K Frequent Elements](https://github.com/zhan2661/LeetCode/blob/master/Java/topKFrequent.java)|  |
 | 094 | [Binary Tree Inorder Traversal](https://github.com/zhan2661/LeetCode/blob/master/Java/inorderTraversal.java)|  |
 | 454 | [4Sum II](https://github.com/zhan2661/LeetCode/blob/master/Java/fourSumCount.java)|   |
-| 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
+| 378 | [	Kth Smallest Element in a Sorted Matrix](https://github.com/zhan2661/LeetCode/blob/master/Java/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.java) |  |
 | 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
 | 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
 | 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
