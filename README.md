@@ -52,7 +52,7 @@ The questions I have reviewed
 | 048 | [	Rotate Image ](https://github.com/zhan2661/LeetCode/blob/master/Java/Rotate%20Image.java) |  |
 | 215 | [Kth Largest Element in an Array](https://github.com/zhan2661/LeetCode/blob/master/Java/Kth%20Largest%20Element%20in%20an%20Array.java) |  |
 | 240 | [Search a 2D Matrix II ](https://github.com/zhan2661/LeetCode/blob/master/Java/Search%20a%202D%20Matrix%20II.java) |  |
-| 075 | [Sort Colors]() |  |
+| 075 | [Sort Colors](https://github.com/zhan2661/LeetCode/blob/master/Java/Sort%20Colors.java) |  |
 | 162 | [Find Peak Element ]() |  |
 | 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
 | 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
