@@ -3,7 +3,7 @@
 
 The questions I have reviewed
 
-| # | Title |  Difficulty |
+| # | Title |  Comment |
 | --- | --- | --- |
 | 344 | [Reverse String ](https://github.com/zhan2661/LeetCode/blob/master/Java/reverseString.java) |      |
 | 422 | [Fizz Buzz](https://github.com/zhan2661/LeetCode/blob/master/Java/fizzBuzz.java) |     |
