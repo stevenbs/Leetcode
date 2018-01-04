@@ -45,15 +45,15 @@ The questions I have reviewed
 | 094 | [Binary Tree Inorder Traversal](https://github.com/zhan2661/LeetCode/blob/master/Java/inorderTraversal.java)|  |
 | 454 | [4Sum II](https://github.com/zhan2661/LeetCode/blob/master/Java/fourSumCount.java)|   |
 | 378 | [	Kth Smallest Element in a Sorted Matrix](https://github.com/zhan2661/LeetCode/blob/master/Java/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.java) |  |
-| 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
-| 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
-| 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
-| 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
-| 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
-| 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
-| 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
-| 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
-| 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
+| 230 | [Kth Smallest Element in a BST]() |  |
+| 328 | [Odd Even Linked List]() |  |
+| 287 | [Find the Duplicate Number ]() |  |
+| 078 | [Subsets]() |  |
+| 048 | [	Rotate Image ]() |  |
+| 215 | [Kth Largest Element in an Array]() |  |
+| 240 | [Search a 2D Matrix II ]() |  |
+| 075 | [Sort Colors]() |  |
+| 162 | [Find Peak Element ]() |  |
 | 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
 | 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
 | 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
