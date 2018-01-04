@@ -49,7 +49,7 @@ The questions I have reviewed
 | 328 | [Odd Even Linked List](https://github.com/zhan2661/LeetCode/blob/master/Java/Odd%20Even%20Linked%20List.java) |  |
 | 287 | [Find the Duplicate Number ](https://github.com/zhan2661/LeetCode/blob/master/Java/Find%20the%20Duplicate%20Number.java) |  |
 | 078 | [Subsets](https://github.com/zhan2661/LeetCode/blob/master/Java/Subsets.java) |  |
-| 048 | [	Rotate Image ]() |  |
+| 048 | [	Rotate Image ](https://github.com/zhan2661/LeetCode/blob/master/Java/Rotate%20Image.java) |  |
 | 215 | [Kth Largest Element in an Array]() |  |
 | 240 | [Search a 2D Matrix II ]() |  |
 | 075 | [Sort Colors]() |  |
