@@ -54,9 +54,24 @@ The questions I have reviewed
 | 240 | [Search a 2D Matrix II ](https://github.com/zhan2661/LeetCode/blob/master/Java/Search%20a%202D%20Matrix%20II.java) |  |
 | 075 | [Sort Colors](https://github.com/zhan2661/LeetCode/blob/master/Java/Sort%20Colors.java) |  |
 | 162 | [Find Peak Element ](https://github.com/zhan2661/LeetCode/blob/master/Java/Find%20Peak%20Element.java) |  |
-| 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
-| 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
-| 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
-| 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
-| 378 | [	Kth Smallest Element in a Sorted Matrix]() |  |
+| 053 | [Maximum Subarray]() |  |
+| 101 | [Symmetric Tree ]() |  |
+| 021 | [Merge Two Sorted Lists]() |  |
+| 118 | [Pascal's Triangle]() |  |
+| 461 | [	Hamming Distance]() |  |
+| 657 | [Judge Route Circle]() |  |
+| 728 | [Self Dividing Numbers]() |  |
+| 561 | [Array Partition I ]() |  |
+| 476 | [Number Complement  ]() |  |
+| 557 | [Reverse Words in a String III]() |  |
+| 500 | [Keyboard Row]() |  |
+| 344 | [Reverse String]() |  |
+| 637 | [Average of Levels in Binary Tree]() |  |
+| 136 | [Single Number]() |  |
+| 226 | [Invert Binary Tree]() |  |
+| 520 | [Detect Capital]() |  |
+| 258 | [Add Digits]() |  |
+| 448 | [Find All Numbers Disappeared in an Array]() |  |
+| 371 | [Sum of Two Integers]() |  |
+| 389 | [Find the Difference]() |  |
 
