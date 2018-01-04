@@ -74,4 +74,9 @@ The questions I have reviewed
 | 448 | [Find All Numbers Disappeared in an Array]() |  |
 | 371 | [Sum of Two Integers]() |  |
 | 389 | [Find the Difference]() |  |
+| 283 | [Move Zeroes]() |  |
+| 653 | [Two Sum IV - Input is a BST ]() |  |
+| 171 | [Excel Sheet Column Number]() |  |
+| 070 | [Climbing Stairs ]() |  |
+| 326 | [Power of Three ]() |  |
 
