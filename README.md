@@ -50,7 +50,7 @@ The questions I have reviewed
 | 287 | [Find the Duplicate Number ](https://github.com/zhan2661/LeetCode/blob/master/Java/Find%20the%20Duplicate%20Number.java) |  |
 | 078 | [Subsets](https://github.com/zhan2661/LeetCode/blob/master/Java/Subsets.java) |  |
 | 048 | [	Rotate Image ](https://github.com/zhan2661/LeetCode/blob/master/Java/Rotate%20Image.java) |  |
-| 215 | [Kth Largest Element in an Array]() |  |
+| 215 | [Kth Largest Element in an Array](https://github.com/zhan2661/LeetCode/blob/master/Java/Kth%20Largest%20Element%20in%20an%20Array.java) |  |
 | 240 | [Search a 2D Matrix II ]() |  |
 | 075 | [Sort Colors]() |  |
 | 162 | [Find Peak Element ]() |  |
